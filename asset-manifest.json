@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dss-capstone/static/css/main.5abe3471.chunk.css",
-    "main.js": "/dss-capstone/static/js/main.3b1c66a9.chunk.js",
-    "main.js.map": "/dss-capstone/static/js/main.3b1c66a9.chunk.js.map",
-    "runtime-main.js": "/dss-capstone/static/js/runtime-main.6ac8ccae.js",
-    "runtime-main.js.map": "/dss-capstone/static/js/runtime-main.6ac8ccae.js.map",
+    "main.css": "/dss-capstone/static/css/main.6cfc14fc.chunk.css",
+    "main.js": "/dss-capstone/static/js/main.0023dd51.chunk.js",
+    "main.js.map": "/dss-capstone/static/js/main.0023dd51.chunk.js.map",
+    "runtime-main.js": "/dss-capstone/static/js/runtime-main.48d7b55e.js",
+    "runtime-main.js.map": "/dss-capstone/static/js/runtime-main.48d7b55e.js.map",
     "static/css/2.a46c5178.chunk.css": "/dss-capstone/static/css/2.a46c5178.chunk.css",
-    "static/js/2.72e3372f.chunk.js": "/dss-capstone/static/js/2.72e3372f.chunk.js",
-    "static/js/2.72e3372f.chunk.js.map": "/dss-capstone/static/js/2.72e3372f.chunk.js.map",
-    "static/js/3.76ad1bf3.chunk.js": "/dss-capstone/static/js/3.76ad1bf3.chunk.js",
-    "static/js/3.76ad1bf3.chunk.js.map": "/dss-capstone/static/js/3.76ad1bf3.chunk.js.map",
+    "static/js/2.99b65278.chunk.js": "/dss-capstone/static/js/2.99b65278.chunk.js",
+    "static/js/2.99b65278.chunk.js.map": "/dss-capstone/static/js/2.99b65278.chunk.js.map",
+    "static/js/3.d82f0ee2.chunk.js": "/dss-capstone/static/js/3.d82f0ee2.chunk.js",
+    "static/js/3.d82f0ee2.chunk.js.map": "/dss-capstone/static/js/3.d82f0ee2.chunk.js.map",
     "index.html": "/dss-capstone/index.html",
     "static/css/2.a46c5178.chunk.css.map": "/dss-capstone/static/css/2.a46c5178.chunk.css.map",
-    "static/css/main.5abe3471.chunk.css.map": "/dss-capstone/static/css/main.5abe3471.chunk.css.map",
-    "static/js/2.72e3372f.chunk.js.LICENSE.txt": "/dss-capstone/static/js/2.72e3372f.chunk.js.LICENSE.txt"
+    "static/css/main.6cfc14fc.chunk.css.map": "/dss-capstone/static/css/main.6cfc14fc.chunk.css.map",
+    "static/js/2.99b65278.chunk.js.LICENSE.txt": "/dss-capstone/static/js/2.99b65278.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ac8ccae.js",
+    "static/js/runtime-main.48d7b55e.js",
     "static/css/2.a46c5178.chunk.css",
-    "static/js/2.72e3372f.chunk.js",
-    "static/css/main.5abe3471.chunk.css",
-    "static/js/main.3b1c66a9.chunk.js"
+    "static/js/2.99b65278.chunk.js",
+    "static/css/main.6cfc14fc.chunk.css",
+    "static/js/main.0023dd51.chunk.js"
   ]
 }
