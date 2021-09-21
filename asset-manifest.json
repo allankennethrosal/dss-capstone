@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/dss-capstone/static/css/main.c6ef21f5.chunk.css",
-    "main.js": "/dss-capstone/static/js/main.dd8bce47.chunk.js",
-    "main.js.map": "/dss-capstone/static/js/main.dd8bce47.chunk.js.map",
-    "runtime-main.js": "/dss-capstone/static/js/runtime-main.570bf7cf.js",
-    "runtime-main.js.map": "/dss-capstone/static/js/runtime-main.570bf7cf.js.map",
+    "main.js": "/dss-capstone/static/js/main.191c6572.chunk.js",
+    "main.js.map": "/dss-capstone/static/js/main.191c6572.chunk.js.map",
+    "runtime-main.js": "/dss-capstone/static/js/runtime-main.9c251bd8.js",
+    "runtime-main.js.map": "/dss-capstone/static/js/runtime-main.9c251bd8.js.map",
     "static/css/2.a46c5178.chunk.css": "/dss-capstone/static/css/2.a46c5178.chunk.css",
-    "static/js/2.0d1c8c72.chunk.js": "/dss-capstone/static/js/2.0d1c8c72.chunk.js",
-    "static/js/2.0d1c8c72.chunk.js.map": "/dss-capstone/static/js/2.0d1c8c72.chunk.js.map",
-    "static/js/3.880681d1.chunk.js": "/dss-capstone/static/js/3.880681d1.chunk.js",
-    "static/js/3.880681d1.chunk.js.map": "/dss-capstone/static/js/3.880681d1.chunk.js.map",
+    "static/js/2.9470426a.chunk.js": "/dss-capstone/static/js/2.9470426a.chunk.js",
+    "static/js/2.9470426a.chunk.js.map": "/dss-capstone/static/js/2.9470426a.chunk.js.map",
+    "static/js/3.b23bf578.chunk.js": "/dss-capstone/static/js/3.b23bf578.chunk.js",
+    "static/js/3.b23bf578.chunk.js.map": "/dss-capstone/static/js/3.b23bf578.chunk.js.map",
     "index.html": "/dss-capstone/index.html",
     "static/css/2.a46c5178.chunk.css.map": "/dss-capstone/static/css/2.a46c5178.chunk.css.map",
     "static/css/main.c6ef21f5.chunk.css.map": "/dss-capstone/static/css/main.c6ef21f5.chunk.css.map",
-    "static/js/2.0d1c8c72.chunk.js.LICENSE.txt": "/dss-capstone/static/js/2.0d1c8c72.chunk.js.LICENSE.txt",
+    "static/js/2.9470426a.chunk.js.LICENSE.txt": "/dss-capstone/static/js/2.9470426a.chunk.js.LICENSE.txt",
     "static/media/bcg-img-attr.9c7e6a76.jpg": "/dss-capstone/static/media/bcg-img-attr.9c7e6a76.jpg",
     "static/media/cover-about.0cd32ad4.jpg": "/dss-capstone/static/media/cover-about.0cd32ad4.jpg",
     "static/media/icon1-linguistic.png": "/dss-capstone/static/media/icon1-linguistic.05dec459.png",
@@ -21,10 +21,10 @@
     "static/media/icon3-spatial.png": "/dss-capstone/static/media/icon3-spatial.7348684d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.570bf7cf.js",
+    "static/js/runtime-main.9c251bd8.js",
     "static/css/2.a46c5178.chunk.css",
-    "static/js/2.0d1c8c72.chunk.js",
+    "static/js/2.9470426a.chunk.js",
     "static/css/main.c6ef21f5.chunk.css",
-    "static/js/main.dd8bce47.chunk.js"
+    "static/js/main.191c6572.chunk.js"
   ]
 }
